@@ -2,7 +2,7 @@
 
 docker run -p 9080:8080 -v <host-folder>:<guest-folder>  -d --name tomcat  jonathb/tomcat:latest
 
-Bang the front on http://lcoalhost:9080/sample
+Bang the front on http://localhost:9080/sample
 
 or better set a host in dockerfile.
 
