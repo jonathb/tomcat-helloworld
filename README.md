@@ -1,4 +1,8 @@
-###  Docker Tomcat  HedlloWorld
+### 4 years ago this was a demo of tomcat in a docker engine
+
+?TODO the same but stick it in a GKE cluster.
+
+### Docker Tomcat  HedlloWorld
 
 docker run -p 9080:8080 -v <host-folder>:<guest-folder>  -d --name tomcat  jonathb/tomcat:latest
 
